@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "77609638510",
+    "project_id": "fudgeshare",
+    "storage_bucket": "fudgeshare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77609638510:android:de7d7fb8ae105aa712e47f",
+        "android_client_info": {
+          "package_name": "com.corneliusmutisya.fudgeshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77609638510-513731vrv389km6jfohfhio41mu3l2qs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.corneliusmutisya.fudgeshare",
+            "certificate_hash": "efd3eccd55f3d73edd684f64a6c8525c478c1200"
+          }
+        },
+        {
+          "client_id": "77609638510-0qqduolg6m0ht8ahrkopspanu2vicke6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsAH86Hoipuxv3aUmwYcDyy4eEefnFIks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77609638510-0qqduolg6m0ht8ahrkopspanu2vicke6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
